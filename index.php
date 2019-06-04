@@ -47,7 +47,7 @@ body {
 			</tr>
 			</table><br><br><br> 
 			<div style="margin-left:100px;">
-				<input type="submit" name="submit" value="Login">&nbsp;&nbsp;
+				<input type="submit" name="submit" value="Login"id="submit">&nbsp;&nbsp;
 				<a href="Register/register.php" name="register" >Register</a>
             </div>	
 	</form>
